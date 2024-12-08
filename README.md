@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shubhra-Awasthi
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shubhraawasthi750@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I think they were on a break!!
