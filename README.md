@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubhra-Awasthi
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m a Software Developer and Competetive Programmer
 - 📫 How to reach me shubhraawasthi.work@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ HUH!
